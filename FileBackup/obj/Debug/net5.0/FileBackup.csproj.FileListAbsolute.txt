@@ -1,0 +1,16 @@
+C:\Users\luka\source\repos\FileBackup\FileBackup\bin\Debug\net5.0\FileBackup.exe
+C:\Users\luka\source\repos\FileBackup\FileBackup\bin\Debug\net5.0\FileBackup.deps.json
+C:\Users\luka\source\repos\FileBackup\FileBackup\bin\Debug\net5.0\FileBackup.runtimeconfig.json
+C:\Users\luka\source\repos\FileBackup\FileBackup\bin\Debug\net5.0\FileBackup.runtimeconfig.dev.json
+C:\Users\luka\source\repos\FileBackup\FileBackup\bin\Debug\net5.0\FileBackup.dll
+C:\Users\luka\source\repos\FileBackup\FileBackup\bin\Debug\net5.0\ref\FileBackup.dll
+C:\Users\luka\source\repos\FileBackup\FileBackup\bin\Debug\net5.0\FileBackup.pdb
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\FileBackup.csproj.AssemblyReference.cache
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\FileBackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\FileBackup.AssemblyInfoInputs.cache
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\FileBackup.AssemblyInfo.cs
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\FileBackup.csproj.CoreCompileInputs.cache
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\FileBackup.dll
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\ref\FileBackup.dll
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\FileBackup.pdb
+C:\Users\luka\source\repos\FileBackup\FileBackup\obj\Debug\net5.0\FileBackup.genruntimeconfig.cache
